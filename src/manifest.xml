@@ -1,4 +1,10 @@
 <manifest projecttype="ACCOUNTCUSTOMIZATION">
   <projectname>MCANICA SERV-PROD</projectname>
   <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">ADVANCEDPRINTING</feature>
+      <feature required="true">PURCHASEORDERS</feature>
+    </features>
+  </dependencies>
 </manifest>

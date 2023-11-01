@@ -1,0 +1,9 @@
+<advancedpdftemplate scriptid="custtmpl_154_t2220309_676" standard="STDTMPLPURCHORD">
+  <description></description>
+  <displaysourcecode>F</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>F</preferred>
+  <printtype>TRANSACTION</printtype>
+  <title>orden de compra - mecanica serv</title>
+  <trantype>PURCHORD</trantype>
+</advancedpdftemplate>
